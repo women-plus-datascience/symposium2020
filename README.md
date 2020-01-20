@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# 2020 Women in Data Science @Michigan
+**April 17, 2020 | 8a–5p | Lake Huron Room, MSU Union**
 
-You can use the [editor on GitHub](https://github.com/wids-michigan/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Tentative Schedule
+| Time | Event |
+| :--- | :--- |
+|9 — 9:15 AM | Registration and Intro |
+|9:15 — 10 AM | Keynote |
+|10 — 11:30 AM | Research Talks Session I |
+|11:30 AM — 2 PM | Poster Session <br> Lunch & Networking |
+|2 — 3 PM | Career Panel |
+|3 — 4 PM | Research Talks Session II |
+|4 — 4:45 PM | Technical Presentation |
+|4:45 — 5 PM | Wrap-up and Awards |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Call for Abstracts
+Michigan State University & University of Michigan invite you to their joint Women in Data Science Symposium, 2020
 
-### Markdown
+The 2020 Women in Data Science Symposium, jointly organized by the Michigan State University (MSU) and the University of Michigan (U-M) will take place on April 17 at MSU. We invite abstract submissions for lightning talks and poster presentations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The symposium provides a platform for all practicing and aspiring data scientists, but especially women and gender minority participants, to discuss cutting-edge research, explore resources for research and career advancement, and network with other attendees. Everyone is welcome to contribute and attend.
 
-```markdown
-Syntax highlighted code block
+We invite abstracts in the following areas:
+- Theoretical foundations
+- Methodology and tools
+- Real-world applications in any research domain
+- Ethics, fairness, and societal impact of data science
+- Emerging research areas
 
-# Header 1
-## Header 2
-### Header 3
+**Submission Deadline: Feb. 29, 2020** <br>
+**Notification: March 15, 2020**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wids-michigan/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Submission Instructions
+- Submit your abstract through the online form.
+- Include a title, list of authors/presenters and their affiliations.
+- To recognize women and gender minority data scientists on your team, please indicate their roles in the project (securing research funding, project design, data collection, analysis and interpretation, writing, project management, project supervision).
+- We strongly encourage the women and gender minority members of your team to be the presenters of the talks or posters.
+- The main body of the abstract should be no more than 300 words and should include a brief summary of the research, methods, main results and impact.
+- Please do not include figures, tables or bibliography in the abstract.
+- Please indicate whether you prefer an oral presentation or poster. Oral presentations will be 10 minutes in length. The review committee will try its best to accommodate your preferences.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions/comments?
+Reach us at eastlansing@rladies.org
