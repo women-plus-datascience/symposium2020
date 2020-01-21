@@ -28,8 +28,8 @@ We invite abstracts in the following areas:
 - Emerging research areas
 
 **Submission Deadline: Feb. 29, 2020** <br>
-**Notification: March 15, 2020**
-**REGISTER HERE: <link> **
+**Notification: March 15, 2020** <br>
+**REGISTER HERE: <link>**
 
 ### Submission Instructions
 - Submit your abstract through the online form.
