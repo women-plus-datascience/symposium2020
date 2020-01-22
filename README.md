@@ -1,5 +1,5 @@
 # 2020 Women+ Data Science
-**April 17, 2020 | 8a–5p | Lake Huron Room, MSU Union**
+**April 17, 2020 | 9a–5p | Lake Huron Room, MSU Union**
 
 ## Tentative Schedule
 | Time | Event |
@@ -29,7 +29,7 @@ We invite abstracts in the following areas:
 
 **Submission Deadline: Feb. 29, 2020** <br>
 **Notification: March 15, 2020** <br>
-**REGISTER HERE: <link>**
+**[REGISTER HERE](https://forms.gle/J5zNLDdD4f9wDKto6)**
 
 ### Submission Instructions
 - Submit your abstract through the online form.
@@ -40,7 +40,7 @@ We invite abstracts in the following areas:
 - Please do not include figures, tables or bibliography in the abstract.
 - Please indicate whether you prefer an oral presentation or poster. Oral presentations will be 10 minutes in length. The review committee will try its best to accommodate your preferences.
 
-### Support or Contact
+### Contact
 
 Questions/comments? <br>
 Reach us at women.plus.datascience@gmail.com
