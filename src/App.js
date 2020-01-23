@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   NavLink,
@@ -12,7 +12,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router basename="/home/">
+    <Router>
       <div className="section section-1">
         <h1 className="title">
           <div className="logos">
