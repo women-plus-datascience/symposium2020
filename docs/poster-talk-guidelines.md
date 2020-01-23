@@ -1,4 +1,4 @@
-# Poster & Lightning Talk Guidelines
+# Poster & Talk Guidelines
 Proposals are allowed for either:
 - Poster Presentation only,
 - 10 minute Talk only, or
