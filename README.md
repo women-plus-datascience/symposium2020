@@ -1,5 +1,7 @@
-# 2020 Women+ Data Science
+# Women+ Data Science 2020
 **April 17, 2020 | 9a–5p | Lake Huron Room, MSU Union**
+
+**Michigan State University & University of Michigan invite you to their joint Women+ Data Science Symposium, 2020!**
 
 ## Tentative Schedule
 | Time | Event |
@@ -14,8 +16,6 @@
 |4:45 — 5 PM | Wrap-up and Awards |
 
 ## Call for Abstracts
-Michigan State University & University of Michigan invite you to their joint Women+ Data Science Symposium, 2020!
-
 The 2020 Women+ Data Science Symposium, jointly organized by the Michigan State University (MSU) and the University of Michigan (U-M) will take place on April 17 at MSU. We invite abstract submissions for lightning talks and poster presentations.
 
 The symposium provides a platform for all practicing and aspiring data scientists, but especially women and gender minority participants, to discuss cutting-edge research, explore resources for research and career advancement, and network with other attendees. Everyone is welcome to contribute and attend.
