@@ -3,6 +3,8 @@ html {
   color: #333;
   margin: 0;
   min-height: 100%;
+  width: 100vw;
+  overflow-x: hidden;
 }
 
 body {
@@ -13,12 +15,14 @@ body {
   margin: 0;
   min-height: 100%;
   width: calc(100% - 2rem);
+  overflow-x: hidden;
 }
 
 #root {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
 }
 
 nav ul {
@@ -287,6 +291,11 @@ nav ul li a.is-active {
     justify-content: center;
     align-items: center;
     max-width: 100%;
+  }
+
+  .schedule {
+    min-width: 0;
+    width: 100%;
   }
 }
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Route,
   NavLink,
@@ -12,12 +12,12 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/home">
       <div className="section section-1">
         <h1 className="title">
           <div className="logos">
-            <img src="images/msu-helmet-green.png" className="icon msu" alt="MSU" />
-            <img src="images/um.png" className="icon" alt="UM" />
+            <img src="/home/images/msu-helmet-green.png" className="icon msu" alt="MSU" />
+            <img src="/home/images/um.png" className="icon" alt="UM" />
           </div>
           <span className="plus-sign">Women+</span><br />Data Science
         </h1>
@@ -69,9 +69,9 @@ function App() {
         <h1 className="title smaller">
           <span className="plus-sign">Women+ </span><br />Data Science
         </h1>
-        <img src="images/rlel-sq-bord.png" className="icon" alt="RLEL" />
-        <img src="images/midas.png" className="icon" alt="MIDAS" />
-        <img src="images/msu-helmet-green.png" className="icon msu" alt="MSU" />
+        <img src="/home/images/rlel-sq-bord.png" className="icon" alt="RLEL" />
+        <img src="/home/images/midas.png" className="icon" alt="MIDAS" />
+        <img src="/home/images/msu-helmet-green.png" className="icon msu" alt="MSU" />
       </div>
     </Router>
   );
