@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#00B16A" offset="0%"></stop>
+            <stop stop-color="#EEEE00" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="93.0909091 0 93.0909091 93.0909091 0 93.0909091 0 162.909091 93.0909091 162.909091 93.0909091 256 162.909091 256 162.909091 162.909091 256 162.909091 256 93.0909091 162.909091 93.0909091 162.909091 0"></polygon>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-3" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <use id="Path" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+        <polygon id="Path" fill-opacity="0.2" fill="#FFFFFF" mask="url(#mask-3)" points="108.090909 15 108.090909 108.090909 15 108.090909 15 177.909091 108.090909 177.909091 108.090909 271 177.909091 271 177.909091 177.909091 271 177.909091 271 108.090909 177.909091 108.090909 177.909091 15"></polygon>
+    </g>
+</svg>
