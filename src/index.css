@@ -149,6 +149,7 @@ nav ul li a.is-active {
   border-bottom: 4px double rgba(0, 177, 106, 1);
   padding: 0 .5rem;
   min-width: 25rem;
+  max-width: 90%;
   background-color: rgba(123, 239, 178, .1);
 }
 
@@ -169,6 +170,10 @@ nav ul li a.is-active {
   display: inline-block;
   text-align: right;
   padding-right: 1rem;
+}
+
+.row .event {
+  width: 70%;
 }
 
 .description {
@@ -296,6 +301,7 @@ nav ul li a.is-active {
   .schedule {
     min-width: 0;
     width: 100%;
+    max-width: 95%;
   }
 }
 
