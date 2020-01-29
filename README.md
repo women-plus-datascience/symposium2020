@@ -1,7 +1,7 @@
 # Women+ Data Science 2020
 **April 17, 2020 | 9a–5p | Lake Huron Room, MSU Union**
 
-**Michigan State University & University of Michigan invite you to their joint Women+ Data Science Symposium, 2020!**
+**_Michigan State University & University of Michigan invite you to their joint Women+ Data Science Symposium, 2020!**_
 
 ## Tentative Schedule
 | Time | Event |
@@ -12,11 +12,11 @@
 |11:30 AM — 2 PM | Poster Session <br> Lunch & Networking |
 |2 — 3 PM | Career Panel |
 |3 — 4 PM | Research Talks Session II |
-|4 — 4:45 PM | Technical Presentation |
+|4 — 4:45 PM | Technical Presentation:<br>[Dr. Ceren Budak](https://www.si.umich.edu/people/ceren-budak)<br>School of Information, UM |
 |4:45 — 5 PM | Wrap-up and Awards |
 
 ## Call for Abstracts
-The 2020 Women+ Data Science Symposium, jointly organized by the Michigan State University (MSU) and the University of Michigan (U-M) will take place on April 17 at MSU. We invite abstract submissions for lightning talks and poster presentations.
+The 2020 Women+ Data Science Symposium, jointly organized by the Michigan State University (MSU) and the University of Michigan (U-M) will take place on **April 17** at MSU. We invite abstract submissions for lightning talks and poster presentations.
 
 The symposium provides a platform for all practicing and aspiring data scientists, but especially women and gender minority participants, to discuss cutting-edge research, explore resources for research and career advancement, and network with other attendees. Everyone is welcome to contribute and attend.
 
@@ -32,7 +32,7 @@ We invite abstracts in the following areas:
 **[REGISTER HERE](https://forms.gle/J5zNLDdD4f9wDKto6)**
 
 ### Submission Instructions
-- Submit your abstract through the online form.
+- Submit your abstract through the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfwwdGOItncuSTJqOVBnnlvF6FgyR4Lhiyc4A6HTRorYMnPUg/viewform).
 - Include a title, list of authors/presenters and their affiliations.
 - To recognize women and gender minority data scientists on your team, please indicate their roles in the project (securing research funding, project design, data collection, analysis and interpretation, writing, project management, project supervision).
 - We strongly encourage the women and gender minority members of your team to be the presenters of the talks or posters.
@@ -41,6 +41,4 @@ We invite abstracts in the following areas:
 - Please indicate whether you prefer an oral presentation or poster. Oral presentations will be 10 minutes in length. The review committee will try its best to accommodate your preferences.
 
 ### Contact
-
-Questions/comments? <br>
-Reach us at women.plus.datascience@gmail.com
+**Questions?** Email us: women.plus.datascience@gmail.com
