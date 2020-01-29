@@ -1,7 +1,7 @@
 # Women+ Data Science 2020
 **April 17, 2020 | 9a–5p | Lake Huron Room, MSU Union**
 
-**_Michigan State University & University of Michigan invite you to their joint Women+ Data Science Symposium, 2020!**_
+**_Michigan State University & University of Michigan invite you to their joint Women+ Data Science Symposium, 2020!_**
 
 ## Tentative Schedule
 | Time | Event |
