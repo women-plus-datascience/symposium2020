@@ -17,7 +17,7 @@ function App() {
         <h1 className="title">
           <div className="logos">
             <img src="/home/images/msu-helmet-green.png" className="icon msu" alt="MSU" />
-            <img src="/home/images/midas.png" className="icon" alt="MIDAS" />
+            <img src="/home/images/um.png" className="icon" alt="UM" />
           </div>
           <span className="plus-sign">Women+</span><br />Data Science
         </h1>
@@ -58,7 +58,7 @@ function App() {
 
       <span className="description" style={{'fontSize': '1rem', 'marginBottom': '2rem', 'color': '#888'}}>
         <b>Organizers</b><br />
-        <span>R-Ladies East Lansing, Michigan Institute for Data Science<br />Camille Archer (RLEL, MSU), Janani Ravi (RLEL, MSU); Jing Liu (MIDAS, UM)</span>
+        <span>R-Ladies East Lansing, <a style={{color: 'inherit'}} href="https://midas.umich.edu" target="_blank" rel="noopener noreferrer">Michigan Institute for Data Science</a><br />Camille Archer (RLEL, MSU), Janani Ravi (RLEL, MSU); Jing Liu (MIDAS, UM)</span>
         <br />
         <br />
         <b>Program Committee</b><br />

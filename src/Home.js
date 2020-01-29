@@ -35,7 +35,7 @@ export default function Home() {
           </div>
           <div className="row">
             <span className="time">4 — 4:45 PM</span>
-            <span className="event">Technical Presentation: Ceren Budak, Assistant Professor, School of Information, University of Michigan</span>
+            <span className="event">Technical Presentation: <a href="https://www.si.umich.edu/people/ceren-budak" target="_blank" rel="noopener noreferrer" className="registration">Ceren Budak</a>, Assistant Professor, School of Information, University of Michigan</span>
           </div>
           <div className="row">
             <span className="time">4:45 — 5 PM</span>
