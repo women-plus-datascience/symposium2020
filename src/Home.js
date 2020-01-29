@@ -35,7 +35,7 @@ export default function Home() {
           </div>
           <div className="row">
             <span className="time">4 — 4:45 PM</span>
-            <span className="event">Technical Presentation: <a href="https://www.si.umich.edu/people/ceren-budak" target="_blank" rel="noopener noreferrer" className="registration">Ceren Budak</a>, Assistant Professor, School of Information, University of Michigan</span>
+            <span className="event">Technical Presentation:<br /><a href="https://www.si.umich.edu/people/ceren-budak" target="_blank" rel="noopener noreferrer" className="registration">Ceren Budak</a>, Assistant Professor, School of Information, University of Michigan</span>
           </div>
           <div className="row">
             <span className="time">4:45 — 5 PM</span>
@@ -65,16 +65,6 @@ export default function Home() {
             <b>Notification:</b> March 15, 2020<br />
             <b><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfwwdGOItncuSTJqOVBnnlvF6FgyR4Lhiyc4A6HTRorYMnPUg/viewform">Please register here.</a></b>
           </p>
-          <b><p>Submission Instructions</p></b>
-          <ul>
-            <li>Submit your abstract through the registration form.</li>
-            <li>Include a title, list of authors/presenters and their affiliations.</li>
-            <li>To recognize women and gender minority data scientists on your team, please indicate their roles in the project (securing research funding, project design, data collection, analysis and interpretation, writing, project management, project supervision).</li>
-            <li>We strongly encourage the women and gender minority members of your team to be the presenters of the talks or posters.</li>
-            <li>The main body of the abstract should be no more than 300 words and should include a brief summary of the research, methods, main results and impact.</li>
-            <li>Please do not include figures, tables or bibliography in the abstract.</li>
-            <li>Please indicate whether you prefer an oral presentation or poster. Oral presentations will be 10 minutes in length. The review committee will try its best to accommodate your preferences.</li>
-          </ul>
           <p><b>Questions?</b> Email us: <a target="_blank" rel="noopener noreferrer" href="mailto:women.plus.datascience@gmail.com">women.plus.datascience@gmail.com</a></p>
         </div>
       </div>
