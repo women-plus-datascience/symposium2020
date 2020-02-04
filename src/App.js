@@ -8,6 +8,7 @@ import {
 import Home from './Home';
 import PosterGuidelines from './PosterGuidelines';
 import Sponsors from './Sponsors';
+import Other from './Other';
 import './App.css';
 
 function App() {
@@ -41,6 +42,7 @@ function App() {
             <li><NavLink exact={true} activeClassName='is-active' to="/">Home</NavLink></li>
             <li><NavLink activeClassName='is-active' to="/poster-talk-guidelines">Poster & Talk Guidelines</NavLink></li>
             <li><NavLink activeClassName='is-active' to="/sponsors">Sponsors</NavLink></li>
+            <li><NavLink activeClassName='is-active' to="/other-info">Other Information</NavLink></li>
           </ul>
         </nav>
       </div>
@@ -51,6 +53,9 @@ function App() {
         <Route path="/sponsors">
           <Sponsors />
         </Route>
+        <Route path="/other-info">
+          <Other />
+        </Route>
         <Route path="/">
           <Home />
         </Route>
@@ -58,7 +63,7 @@ function App() {
 
       <span className="description" style={{'fontSize': '1rem', 'marginBottom': '2rem', 'color': '#888'}}>
         <b>Organizers</b><br />
-        <span>R-Ladies East Lansing, <a style={{color: 'inherit'}} href="https://midas.umich.edu" target="_blank" rel="noopener noreferrer">Michigan Institute for Data Science</a><br />Camille Archer (RLEL, MSU), Janani Ravi (RLEL, MSU); Jing Liu (MIDAS, UM)</span>
+        <span><a style={{color: 'inherit'}} href="https://rladies-eastlansing.github.io/" target="_blank" rel="noopener noreferrer">R-Ladies East Lansing</a>, <a style={{color: 'inherit'}} href="https://midas.umich.edu" target="_blank" rel="noopener noreferrer">Michigan Institute for Data Science</a><br />Camille Archer (RLEL, MSU), Janani Ravi (RLEL, MSU); Jing Liu (MIDAS, UM)</span>
         <br />
         <br />
         <b>Program Committee</b><br />
