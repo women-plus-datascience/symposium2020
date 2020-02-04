@@ -31,12 +31,19 @@ nav ul {
   padding-left: 0;
 }
 
+nav ul li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 nav ul li a {
   padding: 1rem;
   color: #598d39 !important;
   text-decoration: none !important;
   font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
   font-weight: 800;
+  text-align: center;
 }
 
 nav ul li a.is-active {
