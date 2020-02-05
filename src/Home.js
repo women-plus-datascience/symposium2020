@@ -61,7 +61,7 @@ export default function Home() {
             <li>Emerging research areas</li>
           </ul>
           <p>
-            <b>Submission Guidelines: <a target="_blank" rel="noopener noreferrer" href="https://women-plus-datascience.github.io/home/poster-talk-guidelines">Click Here</a><b />
+            <b>Submission Guidelines:</b><a target="_blank" rel="noopener noreferrer" href="https://women-plus-datascience.github.io/home/poster-talk-guidelines">Click Here</a><b />
             <b>Submission Deadline:</b> Feb 29, 2020<br />
             <b>Notification:</b> March 15, 2020<br />
             <b><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfwwdGOItncuSTJqOVBnnlvF6FgyR4Lhiyc4A6HTRorYMnPUg/viewform">Register Here</a></b>
