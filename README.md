@@ -27,6 +27,7 @@ We invite abstracts in the following areas:
 - Ethics, fairness, and societal impact of data science
 - Emerging research areas
 
+**Submission Guidelies: [Click Here](https://women-plus-datascience.github.io/home/poster-talk-guidelines)** <br>  
 **Submission Deadline: Feb. 29, 2020** <br>
 **Notification: March 15, 2020** <br>
 **[REGISTER HERE](https://forms.gle/J5zNLDdD4f9wDKto6)**
