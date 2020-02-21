@@ -39,7 +39,7 @@ nav ul li {
 
 nav ul li a {
   padding: 1rem;
-  color: #598d39 !important;
+  color: rgb(17,55,39) !important;
   text-decoration: none !important;
   font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
   font-weight: 800;
@@ -47,7 +47,7 @@ nav ul li a {
 }
 
 nav ul li a.is-active {
-  background-color: #fed956b8;
+  background-color: rgb(253,192,12);
 }
 
 .section {
@@ -137,7 +137,7 @@ nav ul li a.is-active {
   width: 2px;
   height: 1.5rem;
   margin: 0 .75rem;
-  background-color: rgba(0, 177, 106, 1);
+  background-color: rgb(17,55,39);
 }
 
 @media(max-width: 553px) {
@@ -226,7 +226,7 @@ nav ul li a.is-active {
 }
 
 .call a, .registration {
-  color: rgb(38, 194, 129) !important;
+  color: rgb(253,192,12) !important;
 }
 
 .title {
@@ -249,16 +249,7 @@ nav ul li a.is-active {
   padding: 0 .5rem;
   position: relative;
   font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
-  background: linear-gradient(transparent 0px, transparent 65%, rgba(255,207,9,.8) 0px, rgba(255,207,9,.8));
-}
-
-.plus-sign {
-  text-shadow: 0.25rem 0.25rem rgba(255, 255, 255, .2);
-  background: linear-gradient(45deg, rgba(0, 177, 106, 1), rgba(238, 238, 0, 1));
-  background-clip: text;
-  -webkit-background-clip: text;
-  font-weight: 800;
-  color: transparent;
+  /* background: linear-gradient(transparent 0px, transparent 65%, rgba(255,207,9,.8) 0px, rgba(255,207,9,.8)); */
 }
 
 .section-4 {

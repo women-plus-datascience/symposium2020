@@ -6,7 +6,6 @@ export default function Home() {
       <div className="section section-2">
         <span className="subtitle">
           Tentative Schedule
-          <div className="green-ball-1"></div>
         </span>
         <div className="schedule">
           <div className="row">
@@ -15,7 +14,7 @@ export default function Home() {
           </div>
           <div className="row">
             <span className="time">9:15 — 10 AM</span>
-            <span className="event">Keynote</span>
+            <span className="event">Keynote: <a href="https://www.cs.purdue.edu/people/faculty/bertino" target="_blank" rel="noopener noreferrer" className="registration">Elisa Bertino</a>, Samuel D. Conte Professor of Computer Science, Purdue University</span>
           </div>
           <div className="row">
             <span className="time">10 — 11:30 AM</span>
@@ -47,7 +46,6 @@ export default function Home() {
       <div className="section section-3">
         <span className="subtitle">
           Call for Abstracts
-          <div className="green-ball-1 green-ball-2"></div>
         </span>
         <div className="call">
           <p>The 2020 Women+ Data Science Symposium, jointly organized by the Michigan State University (MSU) and the University of Michigan (U-M) will take place on <b>April 17</b> at MSU.  We invite abstract submissions for talks and poster presentations.</p>

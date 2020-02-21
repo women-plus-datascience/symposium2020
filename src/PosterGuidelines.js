@@ -5,7 +5,7 @@ export default function PosterGuidelines() {
     <div className="section section-3">
       <span className="subtitle">
         Poster & Talk Guidelines
-        <div className="green-ball-1 green-ball-2"></div>
+        {/* <div className="green-ball-1 green-ball-2"></div> */}
       </span>
       <div className="call">
         <p>Proposals are allowed for either:</p>
@@ -23,7 +23,7 @@ export default function PosterGuidelines() {
             rel="noopener noreferrer">Register Here</a>
         </p>
 
-        <h3>Submission Instruction</h3>
+        <h3>Submission Instructions</h3>
         <ul>
           <li>Submit your abstract through the <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/anafy6mPXBuJUyMk7">registration form</a>.</li>
           <li>Include a title, list of authors/presenters and their affiliations.</li>
