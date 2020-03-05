@@ -7,8 +7,8 @@
 
 ## Silver ($750 - $1500)  
 * BMB
-* College of Natural Science 
-*[Social Science Data Analytics Initiative](https://ssda.msu.edu/)  
+* College of Natural Science  
+* [Social Science Data Analytics Initiative](https://ssda.msu.edu/)  
 
 ## Bronze ($500 - $750)  
 * [Center for Statistical Training & Consulting - CSTAT](https://www.cstat.msu.edu/)  
